@@ -40,4 +40,4 @@ This stage was useful to see if we could improve the performance of the models b
 
 Since the Random Forest had a lot of parameters, **RandomizedSearchCV** was used to be more efficient. The hyperparameter tuning definitely helped improve the precision score of both models. However, the baseline model still performed better because the hypertuned models were overfitted after all these stages.
 
-For more information, please check the [python file](https://github.com/tmcdonald92/Online-Shoppers-Purchasing-Intention/blob/main/dataset.ipynb)
+
